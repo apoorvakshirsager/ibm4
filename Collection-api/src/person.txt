@@ -1,0 +1,3 @@
+name=appu
+age=21
+city=hyd
